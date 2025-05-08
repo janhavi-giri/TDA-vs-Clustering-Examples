@@ -6,7 +6,7 @@ This repository contains a Python script (`tda_comparison.py`) that demonstrates
 
 1.  **K-Means Clustering:** A standard partitioning clustering algorithm.
 2.  **Persistent Homology (via `giotto-tda`):** Computes a persistence diagram to quantify topological features like connected components (H0) and loops/holes (H1).
-3.  **KeplerMapper:** Constructs a graph-based (simplicial complex) representation of the data, providing a visual summary of its shape and connectivity.
+3.  **Mapper (via `kmapper`) :** Constructs a graph-based (simplicial complex) representation of the data, providing a visual summary of its shape and connectivity.
 
 ## Features:
 
